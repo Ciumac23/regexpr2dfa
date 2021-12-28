@@ -33,7 +33,9 @@ CONCAT UNION a b UNION c d = (a | b)(c | d)
   
   
 
-Refs: https://en.wikipedia.org/wiki/Thompson%27s_construction
+# Refs
+https://en.wikipedia.org/wiki/Thompson%27s_construction
+https://www.geeksforgeeks.org/regular-expression-to-nfa/
 
 
 
