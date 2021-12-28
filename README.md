@@ -2,7 +2,7 @@
 Convert a Regular Expression into DFA
 
 # How to run
-Linux/WSL: python3 main.py <input_file> <out_file>
+**Linux/WSL:** python3 main.py <input_file> <out_file>
 
 # Input
 An input file contains a regular expression in a prenex form.
