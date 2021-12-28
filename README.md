@@ -10,11 +10,16 @@ An input file contains a regular expression in a prenex form.
 
 # Output
 Program writes a DFA with its:
-<dfa_alphabet> / 
-<number_of_states> / 
+<dfa_alphabet>
+
+<number_of_states>
+
 <initial_state>
+
 <final_states>
+
 <transitions>
+  
   
 # Prenex examples
 A prenex form of **ab|c*** regexpr has a tree representation of **UNION(CONCAT(a,b),STAR(c))**.
