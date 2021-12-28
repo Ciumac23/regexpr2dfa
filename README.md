@@ -9,9 +9,9 @@ An input file contains a regular expression in a prenex form.
 
 
 # Output
-Program writes at the outfile an DFA with its:
-<dfa_alphabet>
-<number_of_states>
+Program writes a DFA with its:
+<dfa_alphabet> / 
+<number_of_states> / 
 <initial_state>
 <final_states>
 <transitions>
