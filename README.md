@@ -10,15 +10,16 @@ An input file contains a regular expression in a prenex form.
 
 # Output
 Program writes a DFA with its:
-<dfa_alphabet>
 
-<number_of_states>
+_<dfa_alphabet>_
 
-<initial_state>
+_<number_of_states>_
 
-<final_states>
+_<initial_state>_
 
-<transitions>
+_<final_states>_
+
+_<transitions>_
   
   
 # Prenex examples
