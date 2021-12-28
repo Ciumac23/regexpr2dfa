@@ -24,8 +24,11 @@ Prenex form has its operations first after operands are followed.
   1. Convert the expression into NFA automata with epsilone transitions
   2. Evaluate the expression and construct a final NFA using Thompson's construction
   3. Convert final NFA into DFA using epsilone closure
+  
 UNION a b = a|b
+  
 UNION CONCAT a b STAR c = ab | c*
+  
 CONCAT UNION a b UNION c d = (a | b)(c | d)
   
   
