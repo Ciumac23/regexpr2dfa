@@ -19,7 +19,7 @@ _<initial_state>_
 
 _<final_states>_
 
-_<transitions>_
+<transitions>
   
   
 # Prenex examples
