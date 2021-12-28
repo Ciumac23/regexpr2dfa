@@ -17,7 +17,7 @@ Program writes at the outfile an DFA with its:
 <transitions>
   
 # Prenex examples
-A prenex form of ab|c* regexpr has a tree representation of UNION(CONCAT(a,b),STAR(c)).
+A prenex form of ** ab|c* ** regexpr has a tree representation of **UNION(CONCAT(a,b),STAR(c))**.
 Prenex form has its operations first after operands are followed.
 
 # Algorithm
